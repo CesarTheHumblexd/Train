@@ -1,0 +1,91 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+U4         CP2102            2755.905mil    984.252mil   2755.905mil    984.252mil   2647.334mil    959.197mil  T         45.00 CP2102         
+U3         LD1117           11146.654mil       1005mil      11250mil       1005mil      11250mil   1095.551mil  T         90.00 LD1117         
+U1         ESP32              4364.37mil   1535.591mil       4325mil       1585mil   4029.724mil   1880.276mil  T          0.00 ESP32          
+T13        TSMP77000        14212.598mil        390mil  14212.598mil        390mil  14212.598mil        315mil  T         90.00 TSMP77000      
+T12        BC847A               14810mil    154.764mil      14810mil        115mil  14847.402mil     193.74mil  T        180.00 BC847A         
+T11        TSMP77000         1023.622mil        400mil   1023.622mil        400mil   1023.622mil        325mil  T         90.00 TSMP77000      
+T10        BC847A                1630mil    169.764mil       1630mil        130mil   1667.402mil     208.74mil  T        180.00 BC847A         
+T9         TSMP77000        14212.598mil       1570mil  14212.598mil       1570mil  14212.598mil       1495mil  T         90.00 TSMP77000      
+T8         BC847A               14810mil   1810.236mil      14810mil       1850mil  14772.598mil    1771.26mil  T          0.00 BC847A         
+T7         TSMP77000         1023.622mil       1570mil   1023.622mil       1570mil   1023.622mil       1495mil  T         90.00 TSMP77000      
+T6         BC847A                1630mil   1820.236mil       1630mil       1860mil   1592.598mil    1781.26mil  T          0.00 BC847A         
+T1         C8659             8003.307mil   1856.201mil       7960mil       1830mil   7977.717mil   1817.402mil  T        360.00 TRANSISTORS (NPN/PNP) NPN 100MA 45V
+S4         TS-1187A-B-A-B        4015mil        720mil       4015mil        720mil    3896.89mil    646.181mil  T          0.00 TS-1187A-B-A-B 
+S3         MSS3-Q-T/R           11325mil     151.22mil      11325mil        165mil  11413.583mil     96.102mil  T        180.00 MSS3-Q-T/R     
+S2         TS-1187A-B-A-B        4715mil        720mil       4715mil        720mil    4596.89mil    646.181mil  T          0.00 TS-1187A-B-A-B 
+S1         TS-1187A-B-A-B        4365mil        720mil       4365mil        720mil    4246.89mil    646.181mil  T          0.00 TS-1187A-B-A-B 
+R38        RES_10K               5480mil    705.433mil       5480mil        670mil       5480mil        670mil  T         90.00 Res 10K smd    
+R37        RES_1K                5600mil    705.433mil       5600mil        670mil       5600mil        670mil  T         90.00 Res 1K smd     
+R36        RES_560               5360mil    705.433mil       5360mil        670mil       5360mil        670mil  T         90.00 Res 560 Ohms smd
+R35        RES_47.5K             2735mil    180.433mil       2735mil        145mil       2735mil        145mil  T         90.00 Res 47.5K      
+R34        RES_22.1K             2615mil    179.567mil       2615mil        215mil       2615mil        215mil  T        270.00 Res 22.1K smd  
+R33        RES_2K                2855mil    180.433mil       2855mil    215.866mil       2855mil    215.866mil  T        270.00 Res 2K smd     
+R32        RES_10K               2975mil    180.433mil       2975mil    215.866mil       2975mil    215.866mil  T        270.00 Res 10K smd    
+R31        RES_0_Ohms            2455mil   1524.567mil       2455mil       1560mil       2455mil       1560mil  T        270.00 Res 0ohms      
+R30        RES_0_Ohms            2580mil   1674.567mil       2580mil       1710mil       2580mil       1710mil  T        270.00 Res 0ohms      
+R29        Res_3.3K          6543.937mil       1275mil       6540mil       1275mil   6543.937mil   1239.567mil  T         90.00 Res 3.3K       
+R28        Res_3.3K              6470mil    556.063mil       6470mil        560mil   6434.567mil    556.063mil  T        360.00 Res 3.3K       
+R27        Res_3.3K          6418.937mil       1275mil       6415mil       1275mil   6418.937mil   1239.567mil  T         90.00 Res 3.3K       
+R26        Res_3.3K              6335mil    686.063mil       6335mil        690mil   6299.567mil    686.063mil  T        360.00 Res 3.3K       
+R24        RES_1K           14479.567mil         95mil      14515mil         95mil      14515mil         95mil  T        180.00 Res 1K smd     
+R23        RES_1K           14480.433mil        215mil      14445mil        215mil      14445mil        215mil  T          0.00 Res 1K smd     
+R22        RES_1K            1279.567mil        105mil       1315mil        105mil       1315mil        105mil  T        180.00 Res 1K smd     
+R21        RES_1K            1280.433mil        225mil       1245mil        225mil       1245mil        225mil  T          0.00 Res 1K smd     
+R20        RES_1K           14479.567mil       1870mil      14515mil       1870mil      14515mil       1870mil  T        180.00 Res 1K smd     
+R19        RES_1K           14480.433mil       1750mil      14445mil       1750mil      14445mil       1750mil  T          0.00 Res 1K smd     
+R18        RES_1K            1279.567mil       1870mil       1315mil       1870mil       1315mil       1870mil  T        180.00 Res 1K smd     
+R17        RES_1K            1280.433mil       1750mil       1245mil       1750mil       1245mil       1750mil  T          0.00 Res 1K smd     
+R11        RES_49.9_OHMS    14380.433mil    984.252mil      14345mil    984.252mil      14345mil    984.252mil  T          0.00 Res 49.9 Ohms smd
+R10        RES_49.9_OHMS     1177.165mil    984.252mil   1141.732mil    984.252mil   1141.732mil    984.252mil  T          0.00 Res 49.9 Ohms smd
+R8         RES_49.9_OHMS     1704.567mil       1080mil       1740mil       1080mil       1740mil       1080mil  T        180.00 Res 49.9 Ohms smd
+R7         RES_49.9_OHMS     1704.567mil        895mil       1740mil        895mil       1740mil        895mil  T        180.00 Res 49.9 Ohms smd
+R6         RES_120OHMS       11442.52mil        885mil  11477.953mil        885mil  11477.953mil        885mil  T        180.00 Res 120ohms    
+R5         RES_560          13464.567mil    984.252mil      13500mil    984.252mil      13500mil    984.252mil  T        180.00 Res 560 Ohms smd
+R4         RES_10K               4675mil    299.567mil       4675mil    264.134mil       4675mil    264.134mil  T         90.00 Res 10K smd    
+R3         RES_10K               3755mil    300.433mil       3755mil        265mil       3755mil        265mil  T         90.00 Res 10K smd    
+R2         RES_10K               4190mil    299.567mil       4190mil        335mil       4190mil        335mil  T        270.00 Res 10K smd    
+R1         RES_1K                7990mil   1650.433mil       7990mil       1615mil       7990mil       1615mil  T         90.00 Res 1K smd     
+O1         TCMT110           5474.016mil        900mil       5350mil        875mil       5350mil        925mil  T        360.00 TCMT1100       
+J8         Terminal_Blocks_2in       5495mil    242.953mil       5295mil        115mil       5395mil    242.953mil  T          0.00 JACK 2IN       
+J7         USB_smd            115.276mil        980mil        145mil        980mil     54.055mil    820.551mil  T         90.00 USB smd        
+J3         Jumper_SMD           11620mil     140.63mil      11620mil        180mil      11620mil        180mil  T        270.00 JumperSMD      
+IR6        TSMP6000TT       14177.165mil        145mil  14212.598mil        145mil  14251.969mil         70mil  T         90.00 TSMP6000TT     
+IR5        TSMP6000TT         988.189mil     157.48mil   1023.622mil     157.48mil   1062.992mil      82.48mil  T         90.00 TSMP6000TT     
+IR4        TSMP6000TT       14177.165mil   1811.024mil  14212.598mil   1811.024mil  14251.969mil   1736.024mil  T         90.00 TSMP6000TT     
+IR3        TSMP6000TT         988.189mil   1811.024mil   1023.622mil   1811.024mil   1062.992mil   1736.024mil  T         90.00 TSMP6000TT     
+I1         Inductor_33UH        12740mil       1000mil      12740mil       1000mil      12740mil    807.087mil  T         90.00 Inductor 33uh  
+H17        CONECTOR_2_PINES    5137.52mil    204.331mil       5045mil        350mil    5137.52mil    253.543mil  T        270.00 XHP-2 CONECTOR 
+H16        TF-15x15          6943.465mil       1010mil       7160mil       1010mil   6726.929mil   1098.583mil  T         90.00 TF-15x15       
+D15        LED_SMD_Amarillo       5250mil    709.528mil       5250mil        680mil       5250mil        680mil  T         90.00 LED 0805 SMD   
+D11        Led_0805_Amarillo  14173.228mil    984.252mil  14173.228mil    984.252mil  14173.228mil    944.882mil  T         90.00 Led 0805 Amarillo
+D10        Led_0805_Amarillo    984.252mil    984.252mil    984.252mil    984.252mil    984.252mil    944.882mil  T         90.00 Led 0805 Amarillo
+D8         Led_0805_Verde        1910mil       1080mil       1910mil       1080mil    1870.63mil       1080mil  T          0.00 Led Verde 0805 
+D7         Led_0805_White        1910mil        895mil       1910mil        895mil    1870.63mil        895mil  T          0.00 HL-PC-2012H322W-L(9000K-16000K)
+D6         PMEG3050EP       12748.386mil        370mil      12835mil        370mil  12661.772mil        370mil  T        180.00 PMEG3050EP     
+D5         SS24             12745.394mil       1600mil      12670mil       1600mil      12670mil       1600mil  T        360.00 SS24           
+D4         Led_0805_Verde   13282.087mil    984.252mil  13282.087mil    984.252mil  13242.717mil    984.252mil  T          0.00 Led Verde 0805 
+D3         SS8050                4005mil     395.63mil       4005mil        435mil   4042.402mil     356.26mil  T        180.00 SS8050         
+D2         SS8050                4005mil     209.37mil       4005mil        170mil   3967.598mil     248.74mil  T        360.00 SS8050         
+D1         1N4148                8140mil   1705.315mil       8140mil       1650mil       8140mil    1760.63mil  T         90.00 1N4148         
+C17        CAP_1UFSMD            5720mil    705.433mil       5720mil        670mil       5720mil        670mil  T         90.00 Cap 1uf        
+C16        CAP4.7UFSMD           2370mil    180.433mil       2370mil        145mil       2370mil        145mil  T         90.00 Cap 4.7uf smd  
+C15        CAP0.1UFSMD           2490mil    180.433mil       2490mil    215.866mil       2490mil    215.866mil  T        270.00 Cap 0.1uf smd  
+C14        CAP100NFSMD           6300mil       1275mil       6300mil       1275mil       6300mil   1239.567mil  T         90.00 Cap 100nf smd  
+C12        CAP10UFSMD        11442.52mil       1005mil  11407.087mil       1005mil  11407.087mil       1005mil  T        360.00 Cap 10uf smd   
+C11        CAP100NFSMD       11442.52mil       1125mil   11442.52mil       1125mil  11407.087mil       1125mil  T        360.00 Cap 100nf smd  
+C9         CAP220UFSMD          12240mil       1520mil      12240mil       1520mil      12240mil    1362.52mil  T        270.00 Cap 220uf smd  
+C8         CAP0.1UFSMD      12730.433mil       1450mil      12695mil       1450mil      12695mil       1450mil  T          0.00 Cap 0.1uf smd  
+C7         CAP680UFSMD          12240mil        485mil      12240mil        485mil      12240mil     642.48mil  T         90.00 Cap 680uf smd  
+C6         CAP0.1UFSMD      12725.433mil        555mil      12690mil        555mil      12690mil        555mil  T        360.00 Cap 0.1uf smd  
+C5         CAP0.1UFSMD           4315mil    299.567mil       4315mil        335mil       4315mil        335mil  T        270.00 Cap 0.1uf smd  
+C4         CAP0.1UFSMD           4435mil    299.567mil       4435mil    264.134mil       4435mil    264.134mil  T         90.00 Cap 0.1uf smd  
+C3         CAP10UFSMD            4795mil    299.567mil       4795mil    264.134mil       4795mil    264.134mil  T         90.00 Cap 10uf smd   
+C2         CAP0.1UFSMD           4915mil    299.567mil       4915mil    264.134mil       4915mil    264.134mil  T         90.00 Cap 0.1uf smd  
+C1         CAP10NFSMD            4555mil    299.567mil       4555mil    264.134mil       4555mil    264.134mil  T         90.00 Cap 10nf smd   
+B2         74LVC125APW,118       6420mil       1020mil       6420mil       1020mil   6343.228mil    890.079mil  T        360.00 74LVC125A      
+B1         BUZZERSMD         8366.417mil    1735.63mil       8305mil       1650mil       8305mil       1650mil  T         90.00 BuzzerSMD      
+U2         LM2596           12088.041mil    998.858mil  12348.268mil        865mil  12348.091mil        865mil  T        360.00 LM2596         
+SM1        Switch_Magnetico   6019.685mil    984.252mil   6019.685mil    984.252mil   6019.685mil    688.976mil  T         90.00 Comment        
+

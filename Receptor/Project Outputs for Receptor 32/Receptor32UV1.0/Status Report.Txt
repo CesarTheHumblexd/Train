@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Receptor 32.PrjPcb]
+   Generated File[Receptor32UV1.0.GTL]
+   Generated File[Receptor32UV1.0.GBL]
+   Generated File[Receptor32UV1.0.GPB]
+   Generated File[Receptor32UV1.0.GPT]
+   Generated File[Receptor32UV1.0.GTO]
+   Generated File[Receptor32UV1.0.GTP]
+   Generated File[Receptor32UV1.0.GTS]
+   Generated File[Receptor32UV1.0.GBS]
+   Generated File[Receptor32UV1.0.GBP]
+   Generated File[Receptor32UV1.0.GBO]
+   Generated File[Receptor32UV1.0.GKO]
+   Generated File[Receptor32UV1.0.GM1]
+   Generated File[Receptor32UV1.0.GM13]
+   Generated File[Receptor32UV1.0.GM15]
+   Generated File[Receptor32UV1.0.RUL]
+   Generated File[Receptor32UV1.0.EXTREP]
+   Generated File[Receptor32UV1.0.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 09:15:31 a. m. On 14/07/2022

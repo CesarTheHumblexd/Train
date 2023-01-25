@@ -1,0 +1,36 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+T14        C8659            12408.307mil   1091.201mil      12365mil       1065mil  12382.717mil   1052.402mil  T        360.00 TRANSISTORS (NPN/PNP) NPN 100MA 45V
+T5         TSMP77000        10866.142mil        400mil  10866.142mil        400mil  10866.142mil        325mil  T         90.00 TSMP77000      
+T4         BC847A               11455mil    159.764mil      11455mil        120mil  11492.402mil     198.74mil  T        180.00 BC847A         
+T3         TSMP77000        10866.142mil       1570mil  10866.142mil       1570mil  10866.142mil       1495mil  T         90.00 TSMP77000      
+T2         BC847A               11460mil   1815.236mil      11460mil       1855mil  11422.598mil    1776.26mil  T          0.00 BC847A         
+R41        RES_10K              13210mil   1674.567mil      13210mil       1710mil      13210mil       1710mil  T        270.00 Res 10K smd    
+R40        RES_1K               13330mil   1674.567mil      13330mil       1710mil      13330mil       1710mil  T        270.00 Res 1K smd     
+R39        RES_560              13570mil   1674.567mil      13570mil       1710mil      13570mil       1710mil  T        270.00 Res 560 Ohms smd
+R25        RES_1K               12540mil    855.433mil      12540mil        820mil      12540mil        820mil  T         90.00 Res 1K smd     
+R16        RES_1K           11129.567mil        100mil      11165mil        100mil      11165mil        100mil  T        180.00 Res 1K smd     
+R15        RES_1K           11130.433mil        220mil      11095mil        220mil      11095mil        220mil  T          0.00 Res 1K smd     
+R14        RES_1K           11134.567mil       1875mil      11170mil       1875mil      11170mil       1875mil  T        180.00 Res 1K smd     
+R13        RES_1K           11130.433mil       1755mil      11095mil       1755mil      11095mil       1755mil  T          0.00 Res 1K smd     
+R12        RES_49.9_OHMS    11035.433mil    984.252mil      11000mil    984.252mil      11000mil    984.252mil  T        360.00 Res 49.9 Ohms smd
+O2         TCMT110          13460.984mil       1470mil      13585mil       1495mil      13585mil       1445mil  T        180.00 TCMT1100       
+K1         RELAY_G6K-2F-TR-DC5      12910mil        985mil      12910mil        985mil      12760mil    847.205mil  T         90.00 G6K-2F-TR-DC5  
+J9         Terminal_Blocks_2in  15590.551mil       1280mil  15462.598mil       1480mil  15590.551mil       1380mil  T        270.00 JACK 2IN       
+J6         RJ45_PLUG        15234.744mil    332.008mil  15015.748mil         20mil  15160.433mil    164.685mil  T        360.00 RJ45           
+J1         Terminal_Blocks_2in  15590.551mil       1725mil  15462.598mil       1925mil  15590.551mil       1825mil  T        270.00 JACK 2IN       
+IR2        TSMP6000TT       10830.709mil     157.48mil  10866.142mil     157.48mil  10905.512mil      82.48mil  T         90.00 TSMP6000TT     
+IR1        TSMP6000TT       10830.709mil   1811.024mil  10866.142mil   1811.024mil  10905.512mil   1736.024mil  T         90.00 TSMP6000TT     
+H15        CONECTOR_XHP-3    14662.52mil    525.118mil      14570mil        720mil   14662.52mil    623.543mil  T        270.00 XHP-3 CONECTOR 
+H13        CONECTOR_2_PINES   14662.52mil   1524.331mil      14570mil       1670mil   14662.52mil   1573.543mil  T        270.00 XHP-2 CONECTOR 
+F1         FUSE              2526.299mil    531.574mil       2920mil        435mil   2738.898mil    531.574mil  T         90.00 FUSE           
+D16        LED_SMD_Amarillo      13680mil   1674.527mil      13680mil       1645mil      13680mil       1645mil  T         90.00 LED 0805 SMD   
+D14        C162732              12625mil   1087.992mil      12625mil       1025mil      12625mil       1025mil  T         90.00 IN4001         
+D13        LED_SMD_Amarillo  12380.472mil        890mil      12410mil        890mil      12410mil        890mil  T        180.00 LED 0805 SMD   
+D12        Led_0805_Amarillo  10826.772mil    984.252mil  10826.772mil    984.252mil  10826.772mil    944.882mil  T         90.00 Led 0805 Amarillo
+C18        CAP_1UFSMD           13450mil   1674.567mil      13450mil       1710mil      13450mil       1710mil  T        270.00 Cap 1uf        
+C13        Clema3           13599.685mil    268.346mil      13605mil        275mil  13799.685mil    268.346mil  T        180.00 Clema 3        
+C10        Cap_470uf             2555mil       1465mil       2555mil       1465mil       2555mil    1307.52mil  T        270.00 Cap 470uf      
+J25        Terminal_Blocks_2in  15590.551mil        880mil  15462.598mil       1080mil  15590.551mil        980mil  T        270.00 Comment        
+H25        CONECTOR_4_PINES   14662.52mil   1050.906mil      14570mil       1295mil   14662.52mil   1198.543mil  T        270.00 Comment        
+

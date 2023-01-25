@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Receptor32DV1.0.PcbDoc   14/07/2022  08:51:26 a. m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Receptor32DV1.0.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        11.8mil (0.29972mm)      Round          34               27.43 Inch (696.65 mm)
+T2        30mil (0.762mm)          Round          8                0.92 Inch (23.25 mm)
+T3        35.4mil (0.89916mm)      Round          9                1.15 Inch (29.13 mm)
+T4        37.4mil (0.94996mm)      Round          30               3.10 Inch (78.79 mm)
+T5        51.2mil (1.30048mm)      Round          13               26.58 Inch (675.02 mm)
+T6        126mil (3.2004mm)        Round          2                0.45 Inch (11.45 mm)
+T7        157.5mil (4.0005mm)      Round          8                16.54 Inch (420.00 mm)
+---------------------------------------------------------------------------
+Totals                                            104              76.15 Inch (1934.29 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

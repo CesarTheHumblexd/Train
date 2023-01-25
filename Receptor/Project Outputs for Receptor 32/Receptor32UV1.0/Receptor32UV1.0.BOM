@@ -1,0 +1,52 @@
+Bill of Material for 
+On 14/07/2022 at 09:13:02 a. m.
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 1N4148              1N4148           1    D1                           1N4148               
+ 74LVC125A           74LVC125APW,118    1    B2                           74LVC125A            
+ BC847A              BC847A           4    T6, T8, T10, T12             BC847A               
+ BuzzerSMD           BUZZERSMD        1    B1                           BuzzerSMD            
+ Cap 0.1uf smd       CAP0.1UFSMD      6    C2, C4, C5, C6, C8, C15      0.1uf                
+ Cap 100nf smd       CAP100NFSMD      2    C11, C14                     100nf                
+ Cap 10nf smd        CAP10NFSMD       1    C1                           10nf                 
+ Cap 10uf smd        CAP10UFSMD       2    C3, C12                      10uf                 
+ Cap 1uf             CAP 1UFSMD       1    C17                          Cap 1uf              
+ Cap 220uf smd       CAP220UFSMD      1    C9                           Cap 220uf            
+ Cap 4.7uf smd       CAP4.7UFSMD      1    C16                          4.7uf                
+ Cap 680uf smd       CAP680UFSMD      1    C7                           Cap 680uf            
+ Comment             Switch Magnetico    1    SM1                                               
+ CP2102              CP2102           1    U4                                                
+ ESP32               ESP32            1    U1                                                
+ HL-PC-2012H322W-L(9000K-16000K) Led 0805 White    1    D7                           HL-PC-2012H322W-L(9000K-16000K) 
+ Inductor 33uh       Inductor 33UH    1    I1                           33uh                 
+ JACK 2IN            Terminal Blocks 2in    1    J8                           Pluggable Terminal Blocks WR-TBL Mod312 5.08mm 2Pin Opn Hztl PCBHdr 
+ JumperSMD           Jumper SMD       1    J3                           JumperSMD            
+ LD1117              LD1117           1    U3                                                
+ Led 0805 Amarillo   Led 0805 Amarillo    2    D10, D11                     NCD0805Y1            
+ LED 0805 SMD        LED SMD Amarillo    1    D15                          LED 0805 Yellow      
+ Led Verde 0805      Led 0805 Verde    2    D4, D8                       Led Verde 0805       
+ LM2596              LM2596           1    U2                                                
+ MSS3-Q-T/R          MSS3-Q-T/R       1    S3                           MSS3-Q-T/R           
+ PMEG3050EP          PMEG3050EP       1    D6                           Diodo Schottky 30V 5A 
+ Res 0ohms           RES 0 Ohms       2    R30, R31                     Res 0ohms            
+ Res 10K smd         RES 10K          5    R2, R3, R4, R32, R38         10K                  
+ Res 120ohms         RES 120OHMS      1    R6                           120 ohms             
+ Res 1K smd          RES 1K          10    R1, R17, R18, R19, R20, R21  Res 1K smd           
+                                           R22, R23, R24, R37
+ Res 22.1K smd       RES 22.1K        1    R34                          22.1K                
+ Res 2K smd          RES 2K           1    R33                          2K                   
+ Res 3.3K            Res 3.3K         4    R26, R27, R28, R29           AECR0805F3K30K9      
+ Res 47.5K           RES 47.5K        1    R35                          47.5K                
+ Res 49.9 Ohms smd   RES 49.9 OHMS    4    R7, R8, R10, R11             Res 49.9 Ohms smd    
+ Res 560 Ohms smd    RES 560          2    R5, R36                      Res 560 ohms smd     
+ SS24                SS24             1    D5                           Schottky 40V 2A      
+ SS8050              SS8050           2    D2, D3                       SS8050               
+ TCMT1100            TCMT110          1    O1                           TCMT1100             
+ TF-15x15            TF-15x15         1    H16                          TF-15x15             
+ TRANSISTORS (NPN/PNP) NPN 100MA 45V C8659            1    T1                           TRANSISTORS (NPN/PNP) NPN 100MA 45V SOT-323(SC-70) ROHS 
+ TS-1187A-B-A-B      TS-1187A-B-A-B    3    S1, S2, S4                   TS-1187A-B-A-B       
+ TSMP6000TT          TSMP6000TT       4    IR3, IR4, IR5, IR6           TSMP6000TT           
+ TSMP77000           TSMP77000        4    T7, T9, T11, T13             TSMP77000            
+ USB smd             USB smd          1    J7                                                
+ XHP-2 CONECTOR      CONECTOR 2 PINES    1    H17                          CONECTOR JST-XH 2 PINES 
